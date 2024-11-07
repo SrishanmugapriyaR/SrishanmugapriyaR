@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Srishanmugapriya</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
